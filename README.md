@@ -17,3 +17,7 @@
 [https://tiles.apache.org/framework/tutorial/pattern.html](https://tiles.apache.org/framework/tutorial/pattern.html)
 
 [https://github.com/kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+## October CMS Plugins
+[https://github.com/vojtasvoboda/oc-reservations-plugin](https://github.com/vojtasvoboda/oc-reservations-plugin)
+
