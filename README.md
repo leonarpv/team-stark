@@ -3,6 +3,7 @@
 ## Frontend ❤
 
 [https://github.com/woocommerce/FlexSlider](https://github.com/woocommerce/FlexSlider)
+[https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
 
 ## Backend 🕵️‍♀️
 
