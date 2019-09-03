@@ -3,6 +3,9 @@
 ## Frontend ❤
 
 - [https://github.com/woocommerce/FlexSlider](https://github.com/woocommerce/FlexSlider)
+
+### Angular
+- [https://malcoded.com/posts/angular-fundamentals-cli/](https://malcoded.com/posts/angular-fundamentals-cli/)
 - [https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
 
 ## Backend 🕵️‍♀️
