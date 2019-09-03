@@ -9,18 +9,17 @@
 - [https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
 
 ## Backend 🕵️‍♀️
-
+### Laravel
 -[https://github.com/laravel/laravel](https://github.com/laravel/laravel)
 
 ## CMS🎁
-
+### October cms
 [https://github.com/octobercms/october](https://github.com/octobercms/october)
+- [https://github.com/vojtasvoboda/oc-reservations-plugin](https://github.com/vojtasvoboda/oc-reservations-plugin)
 
 ## Patterns and References😆
 
 - [https://tiles.apache.org/framework/tutorial/pattern.html](https://tiles.apache.org/framework/tutorial/pattern.html)
 - [https://github.com/kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
-## October CMS Plugins
-- [https://github.com/vojtasvoboda/oc-reservations-plugin](https://github.com/vojtasvoboda/oc-reservations-plugin)
 
