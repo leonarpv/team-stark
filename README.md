@@ -4,6 +4,9 @@
 
 - [https://github.com/woocommerce/FlexSlider](https://github.com/woocommerce/FlexSlider)
 
+## Animaciones / Efectos
+- [https://github.com/ngneat/content-loader](https://github.com/ngneat/content-loader)
+
 ### Angular
 - [https://malcoded.com/posts/angular-fundamentals-cli/](https://malcoded.com/posts/angular-fundamentals-cli/)
 - [https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
