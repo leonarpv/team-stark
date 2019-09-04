@@ -1,4 +1,4 @@
-![Team Stark](https://twibbon.blob.core.windows.net/twibbon/2015/334/955bd40f-8014-4902-b5a8-9eac8897c520.png)
+![Team Stark](https://www.pngkey.com/png/detail/61-618122_report-abuse-iron-man-tony-stark-png.png)
 
 ## Frontend ❤
 
