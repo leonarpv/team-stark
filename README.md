@@ -1,4 +1,4 @@
-![Design Patterns For Humans](https://cloud.githubusercontent.com/assets/11269635/23065273/1b7e5938-f515-11e6-8dd3-d0d58de6bb9a.png)
+![Team Stark](https://twibbon.blob.core.windows.net/twibbon/2015/334/955bd40f-8014-4902-b5a8-9eac8897c520.png)
 
 ## Frontend ❤
 
