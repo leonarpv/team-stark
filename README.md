@@ -11,7 +11,7 @@
 ### Angular
 - [Fundamentos de Angular](https://malcoded.com/posts/angular-fundamentals-cli/)
 - [Mejores practicas de arquitectura Angular](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
-
+- [https://overflowjs.com/posts/Angular-8-Understanding-Directory-Structure-and-Creating-CRUD-App.html](https://overflowjs.com/posts/Angular-8-Understanding-Directory-Structure-and-Creating-CRUD-App.html)
 ## Backend 🕵️‍
 ### Laravel
 -[https://github.com/laravel/laravel](https://github.com/laravel/laravel)
