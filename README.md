@@ -1,15 +1,16 @@
-![Team Stark](https://www.seekpng.com/png/detail/350-3509189_team-stark-logo-team-stark.png)
+# Team Stark
+![Team Stark](https://www.pinclipart.com/picdir/middle/69-690664_tony-stark-robert-downey-jr-by-xxnaooxbeaatzxx-clipartlook.png| width=100)
 
 ## Frontend ❤
 
-- [https://github.com/woocommerce/FlexSlider](https://github.com/woocommerce/FlexSlider)
+- [FlexSlider](https://github.com/woocommerce/FlexSlider)
 
 ## Animaciones / Efectos
-- [https://github.com/ngneat/content-loader](https://github.com/ngneat/content-loader)
+- [content-loader](https://github.com/ngneat/content-loader)
 
 ### Angular
-- [https://malcoded.com/posts/angular-fundamentals-cli/](https://malcoded.com/posts/angular-fundamentals-cli/)
-- [https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
+- [Fundamentos de Angular](https://malcoded.com/posts/angular-fundamentals-cli/)
+- [Mejores practicas de arquitectura Angular](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
 
 ## Backend 🕵️‍
 ### Laravel
