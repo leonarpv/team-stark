@@ -15,6 +15,8 @@
 ### Laravel
 -[https://github.com/laravel/laravel](https://github.com/laravel/laravel)
 
+### NodeJs
+- [https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md] (https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md)
 ## CMS🎁
 ### October cms
 [https://github.com/octobercms/october](https://github.com/octobercms/october)
