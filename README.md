@@ -1,4 +1,4 @@
-![Team Stark](https://www.pngkey.com/png/detail/61-618122_report-abuse-iron-man-tony-stark-png.png)
+![Team Stark](https://www.seekpng.com/png/detail/350-3509189_team-stark-logo-team-stark.png)
 
 ## Frontend ❤
 
@@ -11,12 +11,12 @@
 - [https://malcoded.com/posts/angular-fundamentals-cli/](https://malcoded.com/posts/angular-fundamentals-cli/)
 - [https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
 
-## Backend 🕵️‍♀️
+## Backend 🕵️‍
 ### Laravel
 -[https://github.com/laravel/laravel](https://github.com/laravel/laravel)
 
 ### NodeJs
-- [https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md] (https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md)
+- [https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md] (Mejores prácticas de NodeJS)
 ## CMS🎁
 ### October cms
 [https://github.com/octobercms/october](https://github.com/octobercms/october)
