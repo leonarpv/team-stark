@@ -1,6 +1,6 @@
 # Team Stark
-![Team Stark](https://www.pinclipart.com/picdir/middle/69-690664_tony-stark-robert-downey-jr-by-xxnaooxbeaatzxx-clipartlook.png| width=100)
-
+![](https://www.pinclipart.com/picdir/middle/69-690664_tony-stark-robert-downey-jr-by-xxnaooxbeaatzxx-clipartlook.png| width=100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=20)
 ## Frontend ❤
 
 - [FlexSlider](https://github.com/woocommerce/FlexSlider)
