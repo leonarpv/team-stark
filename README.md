@@ -30,3 +30,6 @@
 - [https://github.com/kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 
+## Silver Loins
+
+- [https://kamranahmed.info/](https://kamranahmed.info/)
