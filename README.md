@@ -16,6 +16,7 @@
 - [Fundamentos de Angular](https://malcoded.com/posts/angular-fundamentals-cli/)
 - [Mejores practicas de arquitectura Angular](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
 - [https://overflowjs.com/posts/Angular-8-Understanding-Directory-Structure-and-Creating-CRUD-App.html](https://overflowjs.com/posts/Angular-8-Understanding-Directory-Structure-and-Creating-CRUD-App.html)
+- [https://ngx-toastr.netlify.com/](https://ngx-toastr.netlify.com/)
 ### Resources
 -[Static web publishing for Front-End Developers](https://surge.sh/)
 
