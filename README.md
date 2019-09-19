@@ -2,16 +2,20 @@
 ![](https://www.pinclipart.com/picdir/middle/69-690664_tony-stark-robert-downey-jr-by-xxnaooxbeaatzxx-clipartlook.png)
 
 ## Frontend ❤
+### Javascript / ECMAScript
+- [Specifying JavaScript.](https://tc39.es/)
 
 - [FlexSlider](https://github.com/woocommerce/FlexSlider)
 
-## Animaciones / Efectos
+### Animaciones / Efectos
 - [content-loader](https://github.com/ngneat/content-loader)
 
 ### Angular
 - [Fundamentos de Angular](https://malcoded.com/posts/angular-fundamentals-cli/)
 - [Mejores practicas de arquitectura Angular](https://angular-academy.com/angular-architecture-best-practices/#problems-of-scalability-in-front-end)
 - [https://overflowjs.com/posts/Angular-8-Understanding-Directory-Structure-and-Creating-CRUD-App.html](https://overflowjs.com/posts/Angular-8-Understanding-Directory-Structure-and-Creating-CRUD-App.html)
+### Resources
+-[Static web publishing for Front-End Developers](https://surge.sh/)
 ## Backend 🕵️‍
 ### Laravel
 -[https://github.com/laravel/laravel](https://github.com/laravel/laravel)
