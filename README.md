@@ -1,5 +1,5 @@
 # Team Stark
-![](https://www.pinclipart.com/picdir/middle/69-690664_tony-stark-robert-downey-jr-by-xxnaooxbeaatzxx-clipartlook.png)
+![](https://cdn1.iconfinder.com/data/icons/people-avatars-10/24/people_avatar_head_tony_stark_marvel_iron_man-512.png)
 
 ## Frontend ❤
 
