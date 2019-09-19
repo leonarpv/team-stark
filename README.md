@@ -1,5 +1,5 @@
 # Team Stark
-![](https://cdn1.iconfinder.com/data/icons/people-avatars-10/24/people_avatar_head_tony_stark_marvel_iron_man-512.png)
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa272b39-ceb4-4c3a-a743-fd732c3d41de/dd5lfbv-92f63f41-3d61-4d67-98d9-5ecf9b85d17d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhMjcyYjM5LWNlYjQtNGMzYS1hNzQzLWZkNzMyYzNkNDFkZVwvZGQ1bGZidi05MmY2M2Y0MS0zZDYxLTRkNjctOThkOS01ZWNmOWI4NWQxN2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9u8GDEHo3ZAybe-fKg55Nu6zUbGoeUxf-ZPEwqcszfU)
 
 ## Frontend ❤
 
