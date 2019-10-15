@@ -19,6 +19,7 @@
 - [Ciclo de vida de componentes en Angular](https://medium.com/angular-chile/angular-componentes-y-sus-ciclos-de-vida-aa639e13a688)
 - [https://overflowjs.com/posts/Angular-8-Understanding-Directory-Structure-and-Creating-CRUD-App.html](https://overflowjs.com/posts/Angular-8-Understanding-Directory-Structure-and-Creating-CRUD-App.html)
 - [Toastr Angular](https://ngx-toastr.netlify.com/)
+- [Implementación de Redux](https://academia-binaria.com/el-patron-redux-con-ngrx-en-angular/)
 ### Resources
 -[Static web publishing for Front-End Developers](https://surge.sh/)
 
