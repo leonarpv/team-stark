@@ -1,4 +1,3 @@
-# Team Stark
 ![](https://pm1.narvii.com/6374/823e8ef421a60c1978ee9974895648f01b734b92_128.jpg)
 
 ## Frontend ❤
