@@ -6,6 +6,7 @@
 ### Javascript / ECMAScript
 - [Specifying JavaScript.](https://tc39.es/)
 - [JavaScript Date Object CheatSheet](https://gist.github.com/LeCoupa/304493f4914d4e013c3b)
+- [Airbnb Stylesheet](https://github.com/airbnb/javascript)
 
 ### Plugins
 - [FlexSlider](https://github.com/woocommerce/FlexSlider)
