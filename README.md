@@ -1,5 +1,5 @@
 # Team Stark
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa272b39-ceb4-4c3a-a743-fd732c3d41de/dd5lfbv-92f63f41-3d61-4d67-98d9-5ecf9b85d17d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZhMjcyYjM5LWNlYjQtNGMzYS1hNzQzLWZkNzMyYzNkNDFkZVwvZGQ1bGZidi05MmY2M2Y0MS0zZDYxLTRkNjctOThkOS01ZWNmOWI4NWQxN2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9u8GDEHo3ZAybe-fKg55Nu6zUbGoeUxf-ZPEwqcszfU)
+![](https://pm1.narvii.com/6374/823e8ef421a60c1978ee9974895648f01b734b92_128.jpg)
 
 ## Frontend ❤
 
