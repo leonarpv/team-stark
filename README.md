@@ -6,12 +6,15 @@
 - [Specifying JavaScript.](https://tc39.es/)
 - [JavaScript Date Object CheatSheet](https://gist.github.com/LeCoupa/304493f4914d4e013c3b)
 - [Airbnb Stylesheet](https://github.com/airbnb/javascript)
-
+- [threejs (3D Library)](https://threejs.org/)
 ### Plugins
 - [FlexSlider](https://github.com/woocommerce/FlexSlider)
 
 ### Animaciones / Efectos
 - [content-loader](https://github.com/ngneat/content-loader)
+### React
+
+- [React 360](https://facebook.github.io/react-360/)
 
 ### Angular
 - [Fundamentos de Angular](https://malcoded.com/posts/angular-fundamentals-cli/)
