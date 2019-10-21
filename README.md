@@ -26,6 +26,9 @@
 ### Resources
 -[Static web publishing for Front-End Developers](https://surge.sh/)
 
+##GraphQL
+- [graphql-yoga (Starter Pack GrapgQL)](https://github.com/prisma-labs/graphql-yoga)
+
 ## Backend 🕵️‍
 ### Laravel
 -[https://github.com/laravel/laravel](https://github.com/laravel/laravel)
