@@ -7,13 +7,20 @@
 - [JavaScript Date Object CheatSheet](https://gist.github.com/LeCoupa/304493f4914d4e013c3b)
 - [Airbnb Stylesheet](https://github.com/airbnb/javascript)
 - [threejs (3D Library)](https://threejs.org/)
+- [Craft beautiful dashboards](http://mozaik.rocks/)
+
+### Javascript / Frontend Trends
+ - [State of Javascript(Annualy)](https://stateofjs.com/)
+ - [State of Css/Styles (Annualy)](https://stateofcss.com/)
+ - [Awesome Node.js](https://nodejs.libhunt.com/compare-axios-vs-superagent)
+
 ### Plugins
 - [FlexSlider](https://github.com/woocommerce/FlexSlider)
 
 ### Animaciones / Efectos
 - [content-loader](https://github.com/ngneat/content-loader)
-### React
 
+### React
 - [React 360](https://facebook.github.io/react-360/)
 
 ### Angular
