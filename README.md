@@ -13,6 +13,7 @@
  - [State of Javascript(Annualy)](https://stateofjs.com/)
  - [State of Css/Styles (Annualy)](https://stateofcss.com/)
  - [Awesome Node.js](https://nodejs.libhunt.com/compare-axios-vs-superagent)
+ - [Reveal.js- Javascript Presentations](https://github.com/hakimel/reveal.js)
 
 ### Plugins
 - [FlexSlider](https://github.com/woocommerce/FlexSlider)
